@@ -175,7 +175,7 @@ Open your browser and visit 👉 **http://127.0.0.1:5000/**
 
 | Dashboard | CPU Details | Memory Details | Disk Details |
 |------------|--------------|----------------|---------------|
-| ![Home](assets/home.png) | ![CPU](assets/cpu.png) | ![Memory](assets/memory.png) | ![Disk](assets/disk.png) |
+| ![Home](assets/dashboard.png) | ![CPU](assets/cpu.png) | ![Memory](assets/memory.png) | ![Disk](assets/disk.png) |
 
 
 ---
