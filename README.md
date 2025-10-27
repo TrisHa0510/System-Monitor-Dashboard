@@ -171,12 +171,12 @@ Open your browser and visit 👉 **http://127.0.0.1:5000/**
 
 ## 🖼️ Screenshots
 
+## 🖼️ Screenshots
+
 | Dashboard | CPU Details | Memory Details | Disk Details |
 |------------|--------------|----------------|---------------|
-| ![Home](https://via.placeholder.com/400x250?text=Dashboard+Home) | ![CPU](https://via.placeholder.com/400x250?text=CPU+Details) | ![Memory](https://via.placeholder.com/400x250?text=Memory+Usage) | ![Disk](https://via.placeholder.com/400x250?text=Disk+Details) |
+| ![Home](assets/home.png) | ![CPU](assets/cpu.png) | ![Memory](assets/memory.png) | ![Disk](assets/disk.png) |
 
-> Replace placeholders with actual screenshots later using:  
-> `assets/home.png`, `assets/cpu.png`, etc.
 
 ---
 
